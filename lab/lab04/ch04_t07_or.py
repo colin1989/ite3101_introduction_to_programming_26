@@ -1,6 +1,6 @@
 
 # Set bool_one equal to the result of 2 ** 3 == 108 % 100 or 'Cleese' == 'King Arthur'
-bool_one = None
+bool_one = True
 
 bool_two = None
 
