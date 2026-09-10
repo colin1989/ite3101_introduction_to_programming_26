@@ -1,10 +1,10 @@
 # Use boolean expressions as appropriate on the lines below!
 
-Instructions
-1. This time we'll give the expected result, and you'll use some combination of boolean operators to achieve that result.
+# Instructions
+# 1. This time we'll give the expected result, and you'll use some combination of boolean operators to achieve that result.
 
 
-Remember, the boolean operators are and, or, and not. Use each one at least once!
+# Remember, the boolean operators are and, or, and not. Use each one at least once!
 
 
 
