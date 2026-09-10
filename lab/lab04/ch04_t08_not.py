@@ -8,7 +8,7 @@ bool_two = True
 bool_three = True
 
 # Set bool_four equal to the result of not 3 ** 2 + 4 ** 2 != 5 ** 2
-bool_four = None
+bool_four = True
 
 # Set bool_five equal to the result of not not False
 bool_five = None
