@@ -4,4 +4,4 @@
 # if that number is divisible by 3, by_three should call cube(number) and return its result. Otherwise, by_three should return False.
 # Don't forget that if and else statements need a  :  at the end of that line!
 
-def cube():
+def cube(number:int):
