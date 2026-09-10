@@ -8,8 +8,6 @@ bool_four = None
 
 bool_five = None
 
-# Set bool_one equal to the result of
-# 2 ** 3 == 108 % 100 or 'Cleese' == 'King Arthur'
 # Set bool_two equal to the result of
 # True or False
 # Set bool_three equal to the result of

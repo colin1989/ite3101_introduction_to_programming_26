@@ -9,7 +9,7 @@ bool_two = False
 bool_three = False
 
 # Set bool_four equal to the result of -(1 ** 2) < 2 ** 0 and 10 % 10 <= 20 - 10 * 2
-bool_four = False
+bool_four = True
 
 # Set bool_five equal to the result of True and True
 bool_five = True
