@@ -5,3 +5,4 @@
 # Don't forget that if and else statements need a  :  at the end of that line!
 
 def cube(number:int):
+    return number*number*number
