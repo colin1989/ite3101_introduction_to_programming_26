@@ -3,7 +3,8 @@ def shut_down(s:str):
         return "Shutting down"
     elif s == "no":
         return "Shutdown aborted"
-    
+    else:
+        return "Sorry"
     
 # 1. First, def a function, shut_down, that takes one argument s. Don't forget the parentheses or the colon!
 
