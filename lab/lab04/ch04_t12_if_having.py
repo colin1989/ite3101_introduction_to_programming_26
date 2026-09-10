@@ -4,7 +4,7 @@ def using_control_once() -> str:
 
 
 def using_control_again() -> str:
-    if not False and :
+    if False or not False and True:
         return "Success #2"
 
 
