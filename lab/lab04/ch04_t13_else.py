@@ -13,3 +13,5 @@ def french_soldier() -> bool:
         return True
     else:
         return  # Make sure this returns False
+
+# 1. Complete the else statements to the right. Note the indentation for each line!
