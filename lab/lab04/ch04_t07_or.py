@@ -6,7 +6,7 @@ bool_one = True
 bool_two = True
 
 # Set bool_three equal to the result of 100 ** 0.5 >= 50 or False
-bool_three = True
+bool_three = False
 
 # Set bool_four equal to the result of True or True
 bool_four = True
