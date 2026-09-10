@@ -5,7 +5,7 @@ bool_one = False
 bool_two = True
 
 # Set bool_three equal to the result of not 10 % 3 <= 10 % 2
-bool_three = None
+bool_three = True
 
 # Set bool_four equal to the result of not 3 ** 2 + 4 ** 2 != 5 ** 2
 bool_four = None
