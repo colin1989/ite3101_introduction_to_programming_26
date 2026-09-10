@@ -4,7 +4,7 @@ bool_one = False
 
 
 # Set bool_two equal to the result of -(-(-(-2))) == -2 and 4 >= 16 ** 0.5
-bool_two = -(-(-(-2))) == -2 and 4 >= 16 ** 0.5
+bool_two = False
 
 bool_three = 19 % 4 != 300 / 10 / 10 and False
 
