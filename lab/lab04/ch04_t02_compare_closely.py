@@ -13,10 +13,5 @@ bool_three = 19 <= 19
 bool_four = -22 >= -18
 
 # Set this to True if 99 != (98 + 1) or to False otherwise.
-bool_five = None
+bool_five = 99 != (98 + 1)
 
-Set bool_one  equal to the result of 17 < 328
-Set bool_two  equal to the result of 100 == (2 * 50)
-Set bool_three  equal to the result of 19 <= 19
-Set bool_four  equal to the result of -22 >= -18
-Set bool_five  equal to the result of 99 != (98 + 1)
