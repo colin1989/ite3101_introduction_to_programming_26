@@ -18,7 +18,7 @@ bool_two = (2 <= 2) and not "Alpha" == "Bravo"
 bool_three = not not not 2 <= 2
 
 # Make me true!
-bool_four = None
+bool_four = (2 <= 2) or "Alpha" == "Bravo"
 
 # Make me true!
 bool_five = None
