@@ -11,4 +11,4 @@ bool_three = True
 bool_four = True
 
 # Set bool_five equal to the result of not not False
-bool_five = None
+bool_five = False
