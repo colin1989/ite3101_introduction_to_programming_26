@@ -5,5 +5,5 @@ original = input("Enter a word:")
 
 if len(original):
     print(original)
-else
+else:
     print("empty")
