@@ -11,7 +11,7 @@
 
 bool_one = False
 
-bool_two = None
+bool_two = True
 
 bool_three = None
 
