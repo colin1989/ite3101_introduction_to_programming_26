@@ -4,7 +4,7 @@
 bool_one = 17 < 328  # We did this one for you!
 
 # Set this to True if 100 == (2 * 50) or to False otherwise.
-bool_two = None
+bool_two = 100 == (2 * 50)
 
 # Set this to True if 19 <= 19 or to False if it is not.
 bool_three = None
