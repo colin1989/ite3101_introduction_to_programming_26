@@ -9,7 +9,7 @@
 # Set bool_five equal to the result of
 # False or not (True and True)
 
-bool_one = None
+bool_one = False
 
 bool_two = None
 
