@@ -5,14 +5,13 @@ bool_one = True
 # Set bool_two equal to the result of True or False
 bool_two = True
 
+# Set bool_three equal to the result of 100 ** 0.5 >= 50 or False
 bool_three = None
 
 bool_four = None
 
 bool_five = None
 
-# Set bool_three equal to the result of
-# 100 ** 0.5 >= 50 or False
 # Set bool_four equal to the result of
 # True or True
 # Set bool_five equal to the result of
