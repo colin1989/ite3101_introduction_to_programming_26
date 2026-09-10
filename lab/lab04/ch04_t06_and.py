@@ -1,6 +1,5 @@
 
-# Set bool_one equal to the result of
-# False and False
+# Set bool_one equal to the result of False and False
 bool_one = False and False
 
 bool_two = -(-(-(-2))) == -2 and 4 >= 16 ** 0.5
