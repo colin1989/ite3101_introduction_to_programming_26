@@ -2,7 +2,7 @@
 bool_one = False
 
 # Set bool_two equal to the result of not 3 ** 4 < 4 ** 3
-bool_two = None
+bool_two = True
 
 # Set bool_three equal to the result of not 10 % 3 <= 10 % 2
 bool_three = None
