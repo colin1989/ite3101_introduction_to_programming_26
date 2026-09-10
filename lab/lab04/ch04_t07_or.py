@@ -11,7 +11,6 @@ bool_three = True
 # Set bool_four equal to the result of True or True
 bool_four = True
 
+# Set bool_five equal to the result of 1 ** 100 == 100 ** 1 or 3 * 2 * 1 != 3 + 2 + 1
 bool_five = None
 
-# Set bool_five equal to the result of
-# 1 ** 100 == 100 ** 1 or 3 * 2 * 1 != 3 + 2 + 1
