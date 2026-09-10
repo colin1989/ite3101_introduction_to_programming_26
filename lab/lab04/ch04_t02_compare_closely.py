@@ -10,7 +10,7 @@ bool_two = 100 == (2 * 50)
 bool_three = 19 <= 19
 
 # Set this to True if -22 >= -18 or to False if it is not.
-bool_four = None
+bool_four = -22 >= -18
 
 # Set this to True if 99 != (98 + 1) or to False otherwise.
 bool_five = None
