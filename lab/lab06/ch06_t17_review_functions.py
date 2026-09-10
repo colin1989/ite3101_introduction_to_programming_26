@@ -1,6 +1,10 @@
 def shut_down(s:str):
+    if s == "yes":
+        return "Shutting down"
+    elif s == "no":
+        return "Shutdown aborted"
     
-
+    
 # 1. First, def a function, shut_down, that takes one argument s. Don't forget the parentheses or the colon!
 
 # Then, if the shut_down function receives an s equal to "yes", it should return "Shutting down"
