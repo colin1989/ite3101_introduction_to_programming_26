@@ -1,5 +1,5 @@
 # Set bool_one equal to the result of not True
-bool_one = None
+bool_one = False
 
 # Set bool_two equal to the result of not 3 ** 4 < 4 ** 3
 bool_two = None
