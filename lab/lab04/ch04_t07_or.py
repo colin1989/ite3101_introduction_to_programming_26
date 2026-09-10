@@ -12,5 +12,5 @@ bool_three = True
 bool_four = True
 
 # Set bool_five equal to the result of 1 ** 100 == 100 ** 1 or 3 * 2 * 1 != 3 + 2 + 1
-bool_five = None
+bool_five = False
 
