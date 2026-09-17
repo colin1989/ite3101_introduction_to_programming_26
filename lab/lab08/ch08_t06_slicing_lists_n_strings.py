@@ -7,4 +7,4 @@ cat = animals[0:3]
 dog = animals[3:8]
 
 # From the seventh character to the end
-frog = None
+frog = animals[]
