@@ -12,4 +12,4 @@ stock = {
 }
 
 for p in prices:
-    print()
+    print("%s : %s" %s p prices[p])
