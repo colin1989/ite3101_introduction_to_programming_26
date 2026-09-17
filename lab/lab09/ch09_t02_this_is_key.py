@@ -6,3 +6,5 @@ webster = {
 }
 
 # Add your code below!
+for n in webster:
+    print(n)
