@@ -5,3 +5,5 @@ def fizz_count(x):
         if item == 'fizz':
             ++count
     return count
+
+ fizz_count(["fizz","cat","fizz"])
