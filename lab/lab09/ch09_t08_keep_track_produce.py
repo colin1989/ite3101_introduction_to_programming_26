@@ -12,4 +12,4 @@ stock = {
 }
 
 for p in prices:
-    
+    pri
