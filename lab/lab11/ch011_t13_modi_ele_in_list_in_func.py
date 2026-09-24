@@ -8,7 +8,7 @@ for i in range(0, len(n)):
 
 def double_list(x: List[int]) -> List[int]:
     for idx in x:
-        x[idx] = 
+        x[idx] *= 2
     return x
 
-# print(double_list(n))
+print(double_list(n))
