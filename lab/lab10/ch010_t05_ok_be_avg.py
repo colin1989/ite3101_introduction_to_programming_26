@@ -19,4 +19,4 @@ tyler = {
 
 # Add your function below!
 average(numbers):
-sum
+    sum(numbers)
