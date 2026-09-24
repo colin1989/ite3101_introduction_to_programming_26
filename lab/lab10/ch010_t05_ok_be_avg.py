@@ -20,3 +20,4 @@ tyler = {
 # Add your function below!
 average(numbers):
     total = sum(numbers)
+    total = float(total)
