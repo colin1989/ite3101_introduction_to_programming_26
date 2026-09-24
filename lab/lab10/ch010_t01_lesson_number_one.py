@@ -6,14 +6,14 @@ lloyd = {
 }
 
  alice = {
-    "name": "Lloyd",
+    "name": "Alice",
     "homework": [],
     "quizzes": [],
     "tests": []
 }
 
-lloyd = {
-    "name": "Lloyd",
+tyler = {
+    "name": "Tyler",
     "homework": [],
     "quizzes": [],
     "tests": []
