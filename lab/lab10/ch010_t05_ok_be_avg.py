@@ -21,3 +21,4 @@ tyler = {
 average(numbers):
     total = sum(numbers)
     total = float(total)
+    return total / len(numbers)
