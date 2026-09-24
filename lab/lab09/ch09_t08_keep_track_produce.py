@@ -12,10 +12,10 @@ stock = {
 }
 
 
-for p in prices:
-    print("%s" % p)
-    print("price: %s" % prices[p])
-    print("stock: %s" % stock[p])
+# for p in prices:
+#     print("%s" % p)
+#     print("price: %s" % prices[p])
+#     print("stock: %s" % stock[p])
 
 for p in prices:
     print("%s \n price: %s \n stock: %s" % (p, prices[p], stock[p]))
