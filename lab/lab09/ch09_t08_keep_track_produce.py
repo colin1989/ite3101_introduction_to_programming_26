@@ -18,4 +18,4 @@ stock = {
 #     print("stock: %s" % stock[p])
 
 for p in prices:
-    print("%s \n price: %s \n stock: %s" % (p, prices[p], stock[p]))
+    print("%s \nprice: %s \nstock: %s" % (p, prices[p], stock[p]))
