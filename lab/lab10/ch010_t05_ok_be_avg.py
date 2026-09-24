@@ -18,4 +18,4 @@ tyler = {
 }
 
 # Add your function below!
-average
+average(numbers):
