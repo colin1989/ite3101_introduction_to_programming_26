@@ -6,4 +6,4 @@ def list_extender(lst: List[int]) -> List[int]:
     lst.append(9)
     return lst
 
-# print(list_extender(n))
+print(list_extender(n))
