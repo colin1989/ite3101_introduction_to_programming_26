@@ -1,6 +1,7 @@
 phrase = "A bird in the hand..."
 
 # Add your for loop
+for word in phrase
 
 
 # Don't delete this print statement!
