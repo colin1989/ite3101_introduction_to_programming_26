@@ -4,3 +4,5 @@ hobbies = []
 for i in range(3):
     hobby = input("Your hobby:")
     hobbies.append(hobby)
+
+print(hobbies)
