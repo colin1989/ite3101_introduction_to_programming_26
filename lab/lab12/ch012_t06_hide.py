@@ -13,6 +13,7 @@ def print_board(board_in: List[List[str]]) -> None:
 
 # Add your code below!
 def random_row(board_in: List[List[str]]):
+    index = randint(0, len(board_in) - 1)
     
 
 def random_col(board_in: List[List[str]]):
