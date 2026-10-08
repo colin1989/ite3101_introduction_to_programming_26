@@ -1,3 +1,3 @@
 board = []
 
-range
+range(5)
