@@ -1,6 +1,6 @@
 import math
 
-numbers = [7, 9, 12, 54, 99]
+numbers = [7, 9, 12, 54, 99, 49, 81, 144, 2916, 9801]
 
 print("This list contains: ")
 
