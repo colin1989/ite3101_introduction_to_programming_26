@@ -9,3 +9,5 @@ def is_prime(x: int) -> bool:
 print(is_prime(1))
 print(is_prime(2))
 print(is_prime(3))
+print(is_prime(4))
+print(is_prime(4))
