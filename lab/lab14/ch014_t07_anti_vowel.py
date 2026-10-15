@@ -1,2 +1,4 @@
 def anti_vowel(text: str) -> str:
-    text = text.split(" ")
+    vowels = ['a', 'e', 'i', 'o', 'u']
+    for t in text:
+        print
