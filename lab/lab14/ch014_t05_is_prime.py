@@ -6,6 +6,6 @@ def is_prime(x: int) -> bool:
     return True
 
 
-is_prime(1)
+print(is_prime(1))
 is_prime(2)
 is_prime(3)
