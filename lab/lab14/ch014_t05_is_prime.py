@@ -6,3 +6,7 @@ def is_prime(x: int) -> bool:
         if x / n == 0:
             return False
         return True
+
+is_prime(1)
+is_prime(2)
+is_prime(3)
