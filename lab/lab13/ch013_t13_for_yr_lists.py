@@ -1,6 +1,4 @@
-import math
-
-numbers = [7, 9, 12, 54, 99, 49, 81, 144, 2916, 9801]
+numbers = [7, 9, 12, 54, 99]
 
 print("This list contains: ")
 
@@ -10,4 +8,4 @@ for num in numbers:
 # Add your loop below!
 
 for num in numbers:
-    print(math.sqrt(num))
+    print(num * num)
