@@ -1,5 +1,3 @@
-import squared from math
-
 numbers = [7, 9, 12, 54, 99]
 
 print("This list contains: ")
@@ -10,4 +8,4 @@ for num in numbers:
 # Add your loop below!
 
 for num in numbers:
-    print()
+    print(s)
