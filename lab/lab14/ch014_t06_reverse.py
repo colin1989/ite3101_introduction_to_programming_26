@@ -1,5 +1,5 @@
 def reverse(text: str) -> str:
     o = ""
-    for t in range(0, len(text) - 1):
+    for t in range(len(text) - 1, 0):
         o += text[t]
     return o
