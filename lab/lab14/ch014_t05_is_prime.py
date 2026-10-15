@@ -7,5 +7,5 @@ def is_prime(x: int) -> bool:
 
 
 print(is_prime(1))
-is_prime(2)
-is_prime(3)
+print(is_prime(2))
+print(is_prime(3))
