@@ -1,2 +1,4 @@
 def reverse(text: str) -> str:
-    text.
+    o = ""
+    for t in text:
+        o +=
