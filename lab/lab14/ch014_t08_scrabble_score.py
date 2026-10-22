@@ -6,4 +6,4 @@ score = {"a": 1, "c": 3, "b": 3, "e": 1, "d": 2, "g": 2,
 
 def scrabble_score(word: str) -> int:
     for w in word:
-        
+        w.
