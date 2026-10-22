@@ -1,3 +1,4 @@
 def censor(text: str, word: str) -> str:
     idx = text.index(word)
-    text.
+    for i in range(len(word)):
+        text[i] = *
