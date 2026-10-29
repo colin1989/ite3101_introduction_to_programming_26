@@ -3,8 +3,8 @@ from typing import List
 grades = [100, 100, 90, 40, 80, 100, 85, 70, 90, 65, 90, 85, 50.5]
 
 
-def print_grades(grades_input: List[float]) -> float:
-    for grade in grades:
+def print_grades(grades_input: List[float]) -> None:
+    for grade in grades_input:
         print(grade)
 
 
