@@ -8,5 +8,3 @@ def grades_sum(scores: List[float]) -> float:
         total += g
     return total
 print(grades_sum(grades))
-
-print(sum(grades))
