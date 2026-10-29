@@ -4,5 +4,6 @@ def censor(text: str, word: str) -> str:
     ts = text.split()
     for t in ts:
         if t == word:
+            
 
 print(censor("reverse", "se"))
