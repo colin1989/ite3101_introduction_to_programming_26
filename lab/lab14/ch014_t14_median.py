@@ -7,6 +7,7 @@ def median(numbers: List[int]) -> float:
     len_numbers = len(numbers)
     if len_numbers == 1:
         return numbers[0]
+    if
     before_median = numbers[math.floor(len_numbers/2)-1]
     after_median = numbers[math.ceil(len_numbers/2)]
 
