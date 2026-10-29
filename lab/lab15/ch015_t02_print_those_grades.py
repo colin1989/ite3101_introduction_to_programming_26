@@ -8,3 +8,4 @@ def print_grades(grades_input: List[float]) -> float:
         print(grade)
 
 
+print_grades(grades)
