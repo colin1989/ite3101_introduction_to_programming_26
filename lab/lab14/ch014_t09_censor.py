@@ -9,3 +9,5 @@ def censor(text: str, word: str) -> str:
 
 
 print(censor("reverse", "se"))
+print(censor("reverse", "se"))
+
