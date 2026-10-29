@@ -1,7 +1,7 @@
 from typing import List
 
 
-def production(integers: List[int]) -> List[int]:
+def product(integers: List[int]) -> List[int]:
     output = 1
     for num in integers:
         output *= num
