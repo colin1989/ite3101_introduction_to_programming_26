@@ -10,4 +10,4 @@ def grades_sum(scores: List[float]) -> float:
     return total
 
 
-print(grades)
+print("\\n".join(grades))
