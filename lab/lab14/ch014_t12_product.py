@@ -1,4 +1,4 @@
 from typing import List
 
 
-def production(integers: ):
+def production(integers: List ):
