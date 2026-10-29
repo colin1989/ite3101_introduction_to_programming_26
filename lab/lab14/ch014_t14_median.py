@@ -8,4 +8,3 @@ def median(numbers: List[int]) -> List[int]:
     # after_median = numbers[len_numbers // 2 + (len_numbers % 2):
 
 
-print(3//2)
