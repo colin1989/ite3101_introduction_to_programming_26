@@ -8,6 +8,6 @@ def censor(text: str, word: str) -> str:
     return "".join(ts)
 
 
-print(censor("reverse", "se"))
+print(censor("this hack is wack hack", "hack"))
 print(censor("reverse", "se"))
 
