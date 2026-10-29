@@ -1,3 +1,4 @@
 from typing import List
 
-def purify(numbers: List[int], ) -> List[int]:
+def purify(numbers: List[int]) -> List[int]:
+    
