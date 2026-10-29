@@ -2,7 +2,7 @@ import math
 from typing import List
 
 
-def median(numbers: List[int]) -> List[int]:
+def median(numbers: List[int]) -> float:
     numbers = sorted(numbers)
     len_numbers = len(numbers)
     if len_numbers == 1:
