@@ -3,4 +3,4 @@ def censor(text: str, word: str) -> str:
     for i in range(len(word)):
         text[i] = '*'
 
-print()
+print(censor("this hack is wack hack", "hack"))
