@@ -19,6 +19,3 @@ for key in prices:
     total += prices[key] * stock[key]
 
 print(total)
-
-def censor(text: str, word: str) -> str:
-    
