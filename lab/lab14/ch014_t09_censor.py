@@ -5,7 +5,7 @@ def censor(text: str, word: str) -> str:
     for i in range(ts):
         if ts[i] == word:
             ts[i] = asterisks
-    ts.
-            
+    return "".join(ts)
+
 
 print(censor("reverse", "se"))
