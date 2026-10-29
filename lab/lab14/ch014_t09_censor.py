@@ -1,12 +1,9 @@
 def censor(text: str, word: str) -> str:
     asterisks = '*' * len(word)
-    # return text.replace(word, asterisks)
+    output = []
+    for
     ts = text.split()
-    for i in range(len(ts)):
-        if ts[i] == word:
+    for i, token in enumerate(ts):
+        if token == word:
             ts[i] = asterisks
     return " ".join(ts)
-
-
-print(censor("this hack is wack hack", "hack"))
-print(censor("reverse", "se"))
