@@ -22,7 +22,7 @@ def grades_variance(scores: List[float]) -> float:
         variance += (score - average) ** 2
     variance /= float(len(scores))
     return variance
-print（
+print(grades_variance(grades))
 
 def grades_sum(scores: List[float]) -> float:
     total = 0
