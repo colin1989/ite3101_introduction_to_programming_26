@@ -7,4 +7,5 @@ def grades_sum(scores: List[float]) -> float:
     for g in scores:
         total += g
     return total
+
 print(grades_sum(grades))
