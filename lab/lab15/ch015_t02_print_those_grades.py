@@ -3,12 +3,8 @@ from typing import List
 grades = [100, 100, 90, 40, 80, 100, 85, 70, 90, 65, 90, 85, 50.5]
 
 
-def grades_sum(scores: List[float]) -> float:
-    total = 0
-    for g in scores:
-        total += g
-    return total
+def print_grades(grades_input: List[float]) -> float:
+    for grade in grades:
+        print(grade)
 
 
-for grade in grades:
-    print(grade)
