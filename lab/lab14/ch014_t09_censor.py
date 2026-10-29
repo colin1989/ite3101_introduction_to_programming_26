@@ -1,5 +1,5 @@
 def censor(text: str, word: str) -> str:
-    len
+    while
     return text.replace(word, "*")
 
 
