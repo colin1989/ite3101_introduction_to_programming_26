@@ -1,5 +1,7 @@
 def censor(text: str, word: str) -> str:
     asterisks = '*' * len(word)
-    return text.replace(word, asterisks)
+    idx = text.index(word)
+    while idx >= 0 :
+        
 
 censor("reverse", "se")
