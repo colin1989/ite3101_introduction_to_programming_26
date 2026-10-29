@@ -1,1 +1,1 @@
-def production():
+def production(integers:):
