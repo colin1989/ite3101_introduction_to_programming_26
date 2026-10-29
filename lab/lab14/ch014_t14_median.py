@@ -7,5 +7,3 @@ def median(numbers: List[int]) -> List[int]:
     # before_median = numbers[:len_numbers // 2]
     # after_median = numbers[len_numbers // 2 + (len_numbers % 2):
 
-
-print([1,2,3][3/2])
