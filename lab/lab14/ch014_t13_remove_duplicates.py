@@ -1,3 +1,3 @@
+from typing import List
 
-
-def remove_duplicates(numbers:)
+def remove_duplicates(numbers: List[int])
