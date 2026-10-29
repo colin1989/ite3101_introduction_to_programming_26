@@ -8,7 +8,7 @@ def median(numbers: List[int]) -> float:
     if mid_index % 2 != 0:
         return numbers[mid_index]
     else:
-        before_median = numbers[math.floor(len_numbers/2)-1]
-        after_median = numbers[math.ceil(len_numbers/2)]
+        before_median = numbers[mid_index-1]
+        after_median = numbers[mid_index]
 
     return (before_median + after_median) / 2
