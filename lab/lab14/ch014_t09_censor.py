@@ -1,6 +1,6 @@
 def censor(text: str, word: str) -> str:
     asterisks = '*'
-    asterisks.format
+    asterisks += '*'
 
     return text.replace(word, "*")
 
