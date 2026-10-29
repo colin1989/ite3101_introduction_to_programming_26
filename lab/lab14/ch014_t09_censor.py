@@ -3,9 +3,9 @@ def censor(text: str, word: str) -> str:
     # return text.replace(word, asterisks)
     ts = text.split()
     for i in range(ts):
-        if t[i] == word:
-            t[i] = asterisks
-    
+        if ts[i] == word:
+            ts[i] = asterisks
+    ts.
             
 
 print(censor("reverse", "se"))
