@@ -1,6 +1,6 @@
 def censor(text: str, word: str) -> str:
     asterisks = '*'
-    asterisks.
+    asterisks.format
     idx = text.index(word)
     while idx >= 0:
         for i in wl:
