@@ -1,1 +1,4 @@
-def production(integers:):
+from typing import List
+
+
+def production(integers: ):
